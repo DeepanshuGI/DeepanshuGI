@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepanshugi&label=Profile%20views&color=0e75b6&style=flat" alt="deepanshugi" /> </p>
 
-- 🌱 I’m currently learning **Numpy,Pandas,MySQL,Seaborn,Plotly,Power BI**
+- 🌱 I’m currently learning **Numpy,Pandas,MySQL,Seaborn,Plotly,Power BI,Machine Learning**
 
 - 💬 Ask me about **Hello! I am a Data Analyst passionate about transforming raw data into actionable insights. With hands-on experience in data analysis, I specialize in extracting, cleaning, and visualizing data to empower business decisions and storytelling.Currently, I am expanding my skill set in the field of Data Engineering. I am actively learning about data pipelines, ETL processes, cloud data storage, and scalable data infrastructure to bridge the gap between data analytics and engineering.**
 
