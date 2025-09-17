@@ -1,4 +1,4 @@
-![logo](https://github.com/codewithkryptora/CodeWithKryptora/blob/main/header_gif.gif)
+![logo](https://github.com/DeepanshuGI/DeepanshuGI/blob/main/e36ec678-7984-4cdd-8e4c-a3932772ff8e.gif)
 <h1 align="center">Hi 👋, I'm Deepanshu Pal</h1>
 <h3 align="center">I am a Data Analyst</h3>
 
